@@ -63,6 +63,36 @@ namespace ProjectBakery.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _5340287_man_people_person_user_users_icon {
+            get {
+                object obj = ResourceManager.GetObject("5340287_man_people_person_user_users_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _9035117_person_icon {
+            get {
+                object obj = ResourceManager.GetObject("9035117_person_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _9039913_box_arrow_right_icon {
+            get {
+                object obj = ResourceManager.GetObject("9039913_box_arrow_right_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bill {
             get {
                 object obj = ResourceManager.GetObject("bill", resourceCulture);
@@ -76,6 +106,36 @@ namespace ProjectBakery.Properties {
         internal static System.Drawing.Bitmap cake__ {
             get {
                 object obj = ResourceManager.GetObject("cake..", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap document_category_icon_149943 {
+            get {
+                object obj = ResourceManager.GetObject("document_category_icon_149943", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logout_1024x1023 {
+            get {
+                object obj = ResourceManager.GetObject("logout.1024x1023", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap png_login_logout_white_icon_11641484341czkekai5wp {
+            get {
+                object obj = ResourceManager.GetObject("png-login-logout-white-icon-11641484341czkekai5wp", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

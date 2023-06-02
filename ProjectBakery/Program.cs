@@ -16,7 +16,7 @@ namespace ProjectBakery
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Bakery());
+            Application.Run(new Bakery()) ;
         }
     }
 }
