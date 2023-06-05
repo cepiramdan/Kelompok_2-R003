@@ -406,10 +406,10 @@
             this.bunifuPages1.Location = new System.Drawing.Point(205, 0);
             this.bunifuPages1.Multiline = true;
             this.bunifuPages1.Name = "bunifuPages1";
-            this.bunifuPages1.Page = this.tabPage5;
-            this.bunifuPages1.PageIndex = 4;
-            this.bunifuPages1.PageName = "tabPage5";
-            this.bunifuPages1.PageTitle = "tabPage5";
+            this.bunifuPages1.Page = this.tabPage4;
+            this.bunifuPages1.PageIndex = 3;
+            this.bunifuPages1.PageName = "tabPage4";
+            this.bunifuPages1.PageTitle = "tabPage4";
             this.bunifuPages1.SelectedIndex = 0;
             this.bunifuPages1.Size = new System.Drawing.Size(1209, 741);
             this.bunifuPages1.TabIndex = 1;
@@ -568,7 +568,7 @@
             this.DeleteBtn.AutoSizeLeftIcon = true;
             this.DeleteBtn.AutoSizeRightIcon = true;
             this.DeleteBtn.BackColor = System.Drawing.Color.Transparent;
-            this.DeleteBtn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(198)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.DeleteBtn.BackColor1 = System.Drawing.Color.Red;
             this.DeleteBtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("DeleteBtn.BackgroundImage")));
             this.DeleteBtn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.DeleteBtn.ButtonText = "Hapus ";
@@ -600,7 +600,7 @@
             this.DeleteBtn.IdleBorderColor = System.Drawing.Color.Empty;
             this.DeleteBtn.IdleBorderRadius = 15;
             this.DeleteBtn.IdleBorderThickness = 1;
-            this.DeleteBtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(198)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.DeleteBtn.IdleFillColor = System.Drawing.Color.Red;
             this.DeleteBtn.IdleIconLeftImage = null;
             this.DeleteBtn.IdleIconRightImage = null;
             this.DeleteBtn.IndicateFocus = false;
@@ -626,7 +626,7 @@
             this.DeleteBtn.OnIdleState.BorderRadius = 15;
             this.DeleteBtn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.DeleteBtn.OnIdleState.BorderThickness = 1;
-            this.DeleteBtn.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(198)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.DeleteBtn.OnIdleState.FillColor = System.Drawing.Color.Red;
             this.DeleteBtn.OnIdleState.ForeColor = System.Drawing.Color.White;
             this.DeleteBtn.OnIdleState.IconLeftImage = null;
             this.DeleteBtn.OnIdleState.IconRightImage = null;
@@ -658,7 +658,7 @@
             this.SaveBtn.AutoSizeLeftIcon = true;
             this.SaveBtn.AutoSizeRightIcon = true;
             this.SaveBtn.BackColor = System.Drawing.Color.Transparent;
-            this.SaveBtn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(198)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.SaveBtn.BackColor1 = System.Drawing.Color.Green;
             this.SaveBtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("SaveBtn.BackgroundImage")));
             this.SaveBtn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.SaveBtn.ButtonText = "Tambah ";
@@ -690,7 +690,7 @@
             this.SaveBtn.IdleBorderColor = System.Drawing.Color.Empty;
             this.SaveBtn.IdleBorderRadius = 15;
             this.SaveBtn.IdleBorderThickness = 1;
-            this.SaveBtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(198)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.SaveBtn.IdleFillColor = System.Drawing.Color.Green;
             this.SaveBtn.IdleIconLeftImage = null;
             this.SaveBtn.IdleIconRightImage = null;
             this.SaveBtn.IndicateFocus = false;
@@ -716,7 +716,7 @@
             this.SaveBtn.OnIdleState.BorderRadius = 15;
             this.SaveBtn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.SaveBtn.OnIdleState.BorderThickness = 1;
-            this.SaveBtn.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(198)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.SaveBtn.OnIdleState.FillColor = System.Drawing.Color.Green;
             this.SaveBtn.OnIdleState.ForeColor = System.Drawing.Color.White;
             this.SaveBtn.OnIdleState.IconLeftImage = null;
             this.SaveBtn.OnIdleState.IconRightImage = null;
@@ -748,7 +748,7 @@
             this.EditBtn.AutoSizeLeftIcon = true;
             this.EditBtn.AutoSizeRightIcon = true;
             this.EditBtn.BackColor = System.Drawing.Color.Transparent;
-            this.EditBtn.BackColor1 = System.Drawing.Color.FromArgb(((int)(((byte)(198)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.EditBtn.BackColor1 = System.Drawing.Color.Blue;
             this.EditBtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("EditBtn.BackgroundImage")));
             this.EditBtn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.EditBtn.ButtonText = "Edit ";
@@ -780,7 +780,7 @@
             this.EditBtn.IdleBorderColor = System.Drawing.Color.Empty;
             this.EditBtn.IdleBorderRadius = 15;
             this.EditBtn.IdleBorderThickness = 1;
-            this.EditBtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(198)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.EditBtn.IdleFillColor = System.Drawing.Color.Blue;
             this.EditBtn.IdleIconLeftImage = null;
             this.EditBtn.IdleIconRightImage = null;
             this.EditBtn.IndicateFocus = false;
@@ -806,7 +806,7 @@
             this.EditBtn.OnIdleState.BorderRadius = 15;
             this.EditBtn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.EditBtn.OnIdleState.BorderThickness = 1;
-            this.EditBtn.OnIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(198)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.EditBtn.OnIdleState.FillColor = System.Drawing.Color.Blue;
             this.EditBtn.OnIdleState.ForeColor = System.Drawing.Color.White;
             this.EditBtn.OnIdleState.IconLeftImage = null;
             this.EditBtn.OnIdleState.IconRightImage = null;
@@ -1905,7 +1905,7 @@
             this.AddCatCtn.AutoSizeLeftIcon = true;
             this.AddCatCtn.AutoSizeRightIcon = true;
             this.AddCatCtn.BackColor = System.Drawing.Color.Transparent;
-            this.AddCatCtn.BackColor1 = System.Drawing.Color.Red;
+            this.AddCatCtn.BackColor1 = System.Drawing.Color.Green;
             this.AddCatCtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("AddCatCtn.BackgroundImage")));
             this.AddCatCtn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.AddCatCtn.ButtonText = "Tambah";
@@ -1937,7 +1937,7 @@
             this.AddCatCtn.IdleBorderColor = System.Drawing.Color.Empty;
             this.AddCatCtn.IdleBorderRadius = 15;
             this.AddCatCtn.IdleBorderThickness = 1;
-            this.AddCatCtn.IdleFillColor = System.Drawing.Color.Red;
+            this.AddCatCtn.IdleFillColor = System.Drawing.Color.Green;
             this.AddCatCtn.IdleIconLeftImage = null;
             this.AddCatCtn.IdleIconRightImage = null;
             this.AddCatCtn.IndicateFocus = false;
@@ -1963,7 +1963,7 @@
             this.AddCatCtn.OnIdleState.BorderRadius = 15;
             this.AddCatCtn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.AddCatCtn.OnIdleState.BorderThickness = 1;
-            this.AddCatCtn.OnIdleState.FillColor = System.Drawing.Color.Red;
+            this.AddCatCtn.OnIdleState.FillColor = System.Drawing.Color.Green;
             this.AddCatCtn.OnIdleState.ForeColor = System.Drawing.Color.White;
             this.AddCatCtn.OnIdleState.IconLeftImage = null;
             this.AddCatCtn.OnIdleState.IconRightImage = null;
@@ -1995,7 +1995,7 @@
             this.EditCatBtn.AutoSizeLeftIcon = true;
             this.EditCatBtn.AutoSizeRightIcon = true;
             this.EditCatBtn.BackColor = System.Drawing.Color.Transparent;
-            this.EditCatBtn.BackColor1 = System.Drawing.Color.Red;
+            this.EditCatBtn.BackColor1 = System.Drawing.Color.Blue;
             this.EditCatBtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("EditCatBtn.BackgroundImage")));
             this.EditCatBtn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.EditCatBtn.ButtonText = "Edit ";
@@ -2027,7 +2027,7 @@
             this.EditCatBtn.IdleBorderColor = System.Drawing.Color.Empty;
             this.EditCatBtn.IdleBorderRadius = 15;
             this.EditCatBtn.IdleBorderThickness = 1;
-            this.EditCatBtn.IdleFillColor = System.Drawing.Color.Red;
+            this.EditCatBtn.IdleFillColor = System.Drawing.Color.Blue;
             this.EditCatBtn.IdleIconLeftImage = null;
             this.EditCatBtn.IdleIconRightImage = null;
             this.EditCatBtn.IndicateFocus = false;
@@ -2053,7 +2053,7 @@
             this.EditCatBtn.OnIdleState.BorderRadius = 15;
             this.EditCatBtn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.EditCatBtn.OnIdleState.BorderThickness = 1;
-            this.EditCatBtn.OnIdleState.FillColor = System.Drawing.Color.Red;
+            this.EditCatBtn.OnIdleState.FillColor = System.Drawing.Color.Blue;
             this.EditCatBtn.OnIdleState.ForeColor = System.Drawing.Color.White;
             this.EditCatBtn.OnIdleState.IconLeftImage = null;
             this.EditCatBtn.OnIdleState.IconRightImage = null;
@@ -2280,7 +2280,7 @@
             this.BillingListGDV.HeaderBackColor = System.Drawing.Color.Chocolate;
             this.BillingListGDV.HeaderBgColor = System.Drawing.Color.Empty;
             this.BillingListGDV.HeaderForeColor = System.Drawing.Color.White;
-            this.BillingListGDV.Location = new System.Drawing.Point(563, 447);
+            this.BillingListGDV.Location = new System.Drawing.Point(563, 451);
             this.BillingListGDV.Name = "BillingListGDV";
             this.BillingListGDV.RowHeadersVisible = false;
             this.BillingListGDV.RowHeadersWidth = 51;
@@ -2295,7 +2295,7 @@
             this.label23.AutoSize = true;
             this.label23.Font = new System.Drawing.Font("Cooper Black", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(242)))), ((int)(((byte)(228)))));
-            this.label23.Location = new System.Drawing.Point(800, 410);
+            this.label23.Location = new System.Drawing.Point(800, 413);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(160, 23);
             this.label23.TabIndex = 25;
@@ -2531,7 +2531,7 @@
             this.SaveBill.AutoSizeLeftIcon = true;
             this.SaveBill.AutoSizeRightIcon = true;
             this.SaveBill.BackColor = System.Drawing.Color.Transparent;
-            this.SaveBill.BackColor1 = System.Drawing.Color.Red;
+            this.SaveBill.BackColor1 = System.Drawing.Color.Green;
             this.SaveBill.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("SaveBill.BackgroundImage")));
             this.SaveBill.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.SaveBill.ButtonText = "Simpan ";
@@ -2563,11 +2563,11 @@
             this.SaveBill.IdleBorderColor = System.Drawing.Color.Empty;
             this.SaveBill.IdleBorderRadius = 15;
             this.SaveBill.IdleBorderThickness = 1;
-            this.SaveBill.IdleFillColor = System.Drawing.Color.Red;
+            this.SaveBill.IdleFillColor = System.Drawing.Color.Green;
             this.SaveBill.IdleIconLeftImage = null;
             this.SaveBill.IdleIconRightImage = null;
             this.SaveBill.IndicateFocus = false;
-            this.SaveBill.Location = new System.Drawing.Point(824, 657);
+            this.SaveBill.Location = new System.Drawing.Point(837, 649);
             this.SaveBill.Name = "SaveBill";
             this.SaveBill.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.SaveBill.OnDisabledState.BorderRadius = 15;
@@ -2589,7 +2589,7 @@
             this.SaveBill.OnIdleState.BorderRadius = 15;
             this.SaveBill.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.SaveBill.OnIdleState.BorderThickness = 1;
-            this.SaveBill.OnIdleState.FillColor = System.Drawing.Color.Red;
+            this.SaveBill.OnIdleState.FillColor = System.Drawing.Color.Green;
             this.SaveBill.OnIdleState.ForeColor = System.Drawing.Color.White;
             this.SaveBill.OnIdleState.IconLeftImage = null;
             this.SaveBill.OnIdleState.IconRightImage = null;
@@ -2621,7 +2621,7 @@
             this.AddBillBtn.AutoSizeLeftIcon = true;
             this.AddBillBtn.AutoSizeRightIcon = true;
             this.AddBillBtn.BackColor = System.Drawing.Color.Transparent;
-            this.AddBillBtn.BackColor1 = System.Drawing.Color.Red;
+            this.AddBillBtn.BackColor1 = System.Drawing.Color.Green;
             this.AddBillBtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("AddBillBtn.BackgroundImage")));
             this.AddBillBtn.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.AddBillBtn.ButtonText = "Tambah";
@@ -2653,7 +2653,7 @@
             this.AddBillBtn.IdleBorderColor = System.Drawing.Color.Empty;
             this.AddBillBtn.IdleBorderRadius = 15;
             this.AddBillBtn.IdleBorderThickness = 1;
-            this.AddBillBtn.IdleFillColor = System.Drawing.Color.Red;
+            this.AddBillBtn.IdleFillColor = System.Drawing.Color.Green;
             this.AddBillBtn.IdleIconLeftImage = null;
             this.AddBillBtn.IdleIconRightImage = null;
             this.AddBillBtn.IndicateFocus = false;
@@ -2679,7 +2679,7 @@
             this.AddBillBtn.OnIdleState.BorderRadius = 15;
             this.AddBillBtn.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.AddBillBtn.OnIdleState.BorderThickness = 1;
-            this.AddBillBtn.OnIdleState.FillColor = System.Drawing.Color.Red;
+            this.AddBillBtn.OnIdleState.FillColor = System.Drawing.Color.Green;
             this.AddBillBtn.OnIdleState.ForeColor = System.Drawing.Color.White;
             this.AddBillBtn.OnIdleState.IconLeftImage = null;
             this.AddBillBtn.OnIdleState.IconRightImage = null;
@@ -2711,7 +2711,7 @@
             this.bunifuButton10.AutoSizeLeftIcon = true;
             this.bunifuButton10.AutoSizeRightIcon = true;
             this.bunifuButton10.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuButton10.BackColor1 = System.Drawing.Color.Red;
+            this.bunifuButton10.BackColor1 = System.Drawing.Color.DeepSkyBlue;
             this.bunifuButton10.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuButton10.BackgroundImage")));
             this.bunifuButton10.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.bunifuButton10.ButtonText = "Refresh";
@@ -2743,7 +2743,7 @@
             this.bunifuButton10.IdleBorderColor = System.Drawing.Color.Empty;
             this.bunifuButton10.IdleBorderRadius = 15;
             this.bunifuButton10.IdleBorderThickness = 1;
-            this.bunifuButton10.IdleFillColor = System.Drawing.Color.Red;
+            this.bunifuButton10.IdleFillColor = System.Drawing.Color.DeepSkyBlue;
             this.bunifuButton10.IdleIconLeftImage = null;
             this.bunifuButton10.IdleIconRightImage = null;
             this.bunifuButton10.IndicateFocus = false;
@@ -2769,7 +2769,7 @@
             this.bunifuButton10.OnIdleState.BorderRadius = 15;
             this.bunifuButton10.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderStyles.Solid;
             this.bunifuButton10.OnIdleState.BorderThickness = 1;
-            this.bunifuButton10.OnIdleState.FillColor = System.Drawing.Color.Red;
+            this.bunifuButton10.OnIdleState.FillColor = System.Drawing.Color.DeepSkyBlue;
             this.bunifuButton10.OnIdleState.ForeColor = System.Drawing.Color.White;
             this.bunifuButton10.OnIdleState.IconLeftImage = null;
             this.bunifuButton10.OnIdleState.IconRightImage = null;
