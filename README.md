@@ -35,3 +35,6 @@ Dengan adanya sistem kasir toko kue, toko kue dapat meningkatkan efisiensi opera
 [Laporan Project kelompok Progres-1.docx](https://github.com/cepiramdan/Kelompok_2-R003/files/11714024/Laporan.Project.kelompok.Progres-1.docx)
 
 [PPT Presentasi awal.pdf](https://github.com/cepiramdan/Kelompok_2-R003/files/11714028/PPT.Presentasi.awal.pdf)
+
+![Activity Diagram PVisual](https://github.com/cepiramdan/Kelompok_2-R003/assets/134476980/eb263ad3-99be-4f0f-a3f0-81ed42188102)
+
