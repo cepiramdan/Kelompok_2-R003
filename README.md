@@ -31,3 +31,4 @@ Sistem kasir toko kue adalah sebuah perangkat lunak yang dirancang khusus untuk 
 Dengan adanya sistem kasir toko kue, toko kue dapat meningkatkan efisiensi operasional, meningkatkan akurasi pencatatan transaksi, memudahkan pengelolaan produk dan stok, serta memberikan informasi yang berguna untuk pengambilan keputusan bisnis.
 
 [Laporan tugas implementasi OOP.docx](https://github.com/cepiramdan/Kelompok_2-R003/files/11714022/Laporan.tugas.implementasi.OOP.docx)
+[Laporan Project kelompok Progres-1.docx](https://github.com/cepiramdan/Kelompok_2-R003/files/11714024/Laporan.Project.kelompok.Progres-1.docx)
