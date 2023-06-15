@@ -160,7 +160,6 @@
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.label22 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
             this.BProductDGV = new Bunifu.UI.WinForms.BunifuDataGridView();
             this.label20 = new System.Windows.Forms.Label();
@@ -265,7 +264,7 @@
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(72, 23);
             this.label16.TabIndex = 13;
-            this.label16.Text = "Loguot";
+            this.label16.Text = "Logout";
             this.label16.Click += new System.EventHandler(this.Label16_Click);
             // 
             // pictureBox6
@@ -544,6 +543,7 @@
             this.ProductsDGV.EnableHeadersVisualStyles = false;
             this.ProductsDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.ProductsDGV.HeaderBackColor = System.Drawing.Color.Chocolate;
+            this.ProductsDGV.HeaderBgColor = System.Drawing.Color.Empty;
             this.ProductsDGV.HeaderForeColor = System.Drawing.Color.White;
             this.ProductsDGV.Location = new System.Drawing.Point(9, 246);
             this.ProductsDGV.Name = "ProductsDGV";
@@ -1151,6 +1151,7 @@
             this.CustomersDGV.EnableHeadersVisualStyles = false;
             this.CustomersDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.CustomersDGV.HeaderBackColor = System.Drawing.Color.Chocolate;
+            this.CustomersDGV.HeaderBgColor = System.Drawing.Color.Empty;
             this.CustomersDGV.HeaderForeColor = System.Drawing.Color.White;
             this.CustomersDGV.Location = new System.Drawing.Point(6, 205);
             this.CustomersDGV.Name = "CustomersDGV";
@@ -1756,6 +1757,7 @@
             this.CategoryDGV.EnableHeadersVisualStyles = false;
             this.CategoryDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.CategoryDGV.HeaderBackColor = System.Drawing.Color.Chocolate;
+            this.CategoryDGV.HeaderBgColor = System.Drawing.Color.Empty;
             this.CategoryDGV.HeaderForeColor = System.Drawing.Color.White;
             this.CategoryDGV.Location = new System.Drawing.Point(6, 200);
             this.CategoryDGV.Name = "CategoryDGV";
@@ -2154,7 +2156,6 @@
             this.tabPage4.Controls.Add(this.BillingListGDV);
             this.tabPage4.Controls.Add(this.label23);
             this.tabPage4.Controls.Add(this.YourBillDGV);
-            this.tabPage4.Controls.Add(this.label22);
             this.tabPage4.Controls.Add(this.label21);
             this.tabPage4.Controls.Add(this.BProductDGV);
             this.tabPage4.Controls.Add(this.label20);
@@ -2220,7 +2221,7 @@
             this.GrdTotalbl.AutoSize = true;
             this.GrdTotalbl.Font = new System.Drawing.Font("Cooper Black", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.GrdTotalbl.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(242)))), ((int)(((byte)(228)))));
-            this.GrdTotalbl.Location = new System.Drawing.Point(159, 663);
+            this.GrdTotalbl.Location = new System.Drawing.Point(209, 663);
             this.GrdTotalbl.Name = "GrdTotalbl";
             this.GrdTotalbl.Size = new System.Drawing.Size(88, 23);
             this.GrdTotalbl.TabIndex = 27;
@@ -2275,6 +2276,7 @@
             this.BillingListGDV.EnableHeadersVisualStyles = false;
             this.BillingListGDV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.BillingListGDV.HeaderBackColor = System.Drawing.Color.Chocolate;
+            this.BillingListGDV.HeaderBgColor = System.Drawing.Color.Empty;
             this.BillingListGDV.HeaderForeColor = System.Drawing.Color.White;
             this.BillingListGDV.Location = new System.Drawing.Point(563, 451);
             this.BillingListGDV.Name = "BillingListGDV";
@@ -2352,6 +2354,7 @@
             this.YourBillDGV.EnableHeadersVisualStyles = false;
             this.YourBillDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.YourBillDGV.HeaderBackColor = System.Drawing.Color.Chocolate;
+            this.YourBillDGV.HeaderBgColor = System.Drawing.Color.Empty;
             this.YourBillDGV.HeaderForeColor = System.Drawing.Color.White;
             this.YourBillDGV.Location = new System.Drawing.Point(6, 304);
             this.YourBillDGV.Name = "YourBillDGV";
@@ -2393,23 +2396,12 @@
             this.Column5.MinimumWidth = 6;
             this.Column5.Name = "Column5";
             // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Broadway", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.ForeColor = System.Drawing.Color.Red;
-            this.label22.Location = new System.Drawing.Point(78, 468);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(294, 22);
-            this.label22.TabIndex = 22;
-            this.label22.Text = "Pembayaran Pelanggan";
-            // 
             // label21
             // 
             this.label21.AutoSize = true;
             this.label21.Font = new System.Drawing.Font("Cooper Black", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(242)))), ((int)(((byte)(228)))));
-            this.label21.Location = new System.Drawing.Point(183, 132);
+            this.label21.Location = new System.Drawing.Point(75, 135);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(114, 23);
             this.label21.TabIndex = 21;
@@ -2467,6 +2459,7 @@
             this.BProductDGV.EnableHeadersVisualStyles = false;
             this.BProductDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.BProductDGV.HeaderBackColor = System.Drawing.Color.Chocolate;
+            this.BProductDGV.HeaderBgColor = System.Drawing.Color.Empty;
             this.BProductDGV.HeaderForeColor = System.Drawing.Color.White;
             this.BProductDGV.Location = new System.Drawing.Point(563, 180);
             this.BProductDGV.Name = "BProductDGV";
@@ -3367,7 +3360,6 @@
         private Bunifu.UI.WinForms.BunifuTextBox BPriceTb;
         private Bunifu.UI.WinForms.BunifuTextBox BProdNameTb;
         private Bunifu.UI.WinForms.BunifuDataGridView YourBillDGV;
-        private System.Windows.Forms.Label label22;
         private Bunifu.UI.WinForms.BunifuDataGridView ProductsDGV;
         private Bunifu.UI.WinForms.BunifuButton.BunifuButton AddBillBtn;
         private System.Windows.Forms.Label label23;

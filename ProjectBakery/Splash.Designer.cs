@@ -51,6 +51,7 @@
             this.label7.Size = new System.Drawing.Size(252, 32);
             this.label7.TabIndex = 4;
             this.label7.Text = "BOLUE BAKERY";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // pictureBox1
             // 
