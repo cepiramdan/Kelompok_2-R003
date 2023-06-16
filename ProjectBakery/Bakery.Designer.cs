@@ -543,7 +543,6 @@
             this.ProductsDGV.EnableHeadersVisualStyles = false;
             this.ProductsDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.ProductsDGV.HeaderBackColor = System.Drawing.Color.Chocolate;
-            this.ProductsDGV.HeaderBgColor = System.Drawing.Color.Empty;
             this.ProductsDGV.HeaderForeColor = System.Drawing.Color.White;
             this.ProductsDGV.Location = new System.Drawing.Point(9, 246);
             this.ProductsDGV.Name = "ProductsDGV";
@@ -1151,7 +1150,6 @@
             this.CustomersDGV.EnableHeadersVisualStyles = false;
             this.CustomersDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.CustomersDGV.HeaderBackColor = System.Drawing.Color.Chocolate;
-            this.CustomersDGV.HeaderBgColor = System.Drawing.Color.Empty;
             this.CustomersDGV.HeaderForeColor = System.Drawing.Color.White;
             this.CustomersDGV.Location = new System.Drawing.Point(6, 205);
             this.CustomersDGV.Name = "CustomersDGV";
@@ -1756,8 +1754,6 @@
             this.CategoryDGV.DefaultCellStyle = dataGridViewCellStyle9;
             this.CategoryDGV.EnableHeadersVisualStyles = false;
             this.CategoryDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
-            this.CategoryDGV.HeaderBackColor = System.Drawing.Color.Chocolate;
-            this.CategoryDGV.HeaderBgColor = System.Drawing.Color.Empty;
             this.CategoryDGV.HeaderForeColor = System.Drawing.Color.White;
             this.CategoryDGV.Location = new System.Drawing.Point(6, 200);
             this.CategoryDGV.Name = "CategoryDGV";
@@ -2276,7 +2272,6 @@
             this.BillingListGDV.EnableHeadersVisualStyles = false;
             this.BillingListGDV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.BillingListGDV.HeaderBackColor = System.Drawing.Color.Chocolate;
-            this.BillingListGDV.HeaderBgColor = System.Drawing.Color.Empty;
             this.BillingListGDV.HeaderForeColor = System.Drawing.Color.White;
             this.BillingListGDV.Location = new System.Drawing.Point(563, 451);
             this.BillingListGDV.Name = "BillingListGDV";
@@ -2354,7 +2349,6 @@
             this.YourBillDGV.EnableHeadersVisualStyles = false;
             this.YourBillDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.YourBillDGV.HeaderBackColor = System.Drawing.Color.Chocolate;
-            this.YourBillDGV.HeaderBgColor = System.Drawing.Color.Empty;
             this.YourBillDGV.HeaderForeColor = System.Drawing.Color.White;
             this.YourBillDGV.Location = new System.Drawing.Point(6, 304);
             this.YourBillDGV.Name = "YourBillDGV";
@@ -2459,7 +2453,6 @@
             this.BProductDGV.EnableHeadersVisualStyles = false;
             this.BProductDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(210)))), ((int)(((byte)(187)))));
             this.BProductDGV.HeaderBackColor = System.Drawing.Color.Chocolate;
-            this.BProductDGV.HeaderBgColor = System.Drawing.Color.Empty;
             this.BProductDGV.HeaderForeColor = System.Drawing.Color.White;
             this.BProductDGV.Location = new System.Drawing.Point(563, 180);
             this.BProductDGV.Name = "BProductDGV";
